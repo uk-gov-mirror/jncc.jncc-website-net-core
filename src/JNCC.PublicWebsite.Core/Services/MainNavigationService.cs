@@ -17,7 +17,9 @@ namespace JNCC.PublicWebsite.Core.Services
             DisallowedDocumentTypeAliases = new string[]
             {
                 ScienceCategoryPage.ModelTypeAlias,
-                ScienceDetailsPage.ModelTypeAlias
+                ScienceDetailsPage.ModelTypeAlias,
+                SimpleScienceCategoryPage.ModelTypeAlias,
+                SimpleScienceDetailsPage.ModelTypeAlias
             };
         }
 
