@@ -6,7 +6,7 @@
     "startNode": {
       "type": "content"
     },
-    "filter": "scienceDetailsPage",
+    "filter": "scienceDetailsPage,simpleScienceDetailsPage",
     "minNumber": 0,
     "maxNumber": 0,
     "showOpenButton": false,
