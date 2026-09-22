@@ -614,3 +614,6 @@ src/JNCC.PublicWebsite/Smidge
 
 **/umbraco/Licenses/*.lic
 .DS_Store
+
+# Needed for local testing, not for deployment
+**/ukbi-images/
